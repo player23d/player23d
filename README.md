@@ -5,4 +5,5 @@
 - 📫 How to reach me: player23d@hotmail.it
 - ⚡ Fun fact: I don't like bikes! :D
 
-
+Down here there is my presentation of my google project caption Ciclystic BikeShare for Data Analytics Certification By Google
+https://public.tableau.com/views/bike_shareTs/BikeShareValues?:language=it-IT&:sid=&:display_count=n&:origin=viz_share_link 
